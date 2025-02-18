@@ -8,3 +8,5 @@ fn main() {
     println!("Original: {}", original);
     println!("Inverted: {}", inverted);
 }
+git add .
+git commit -m "Configuração inicial do projeto e .gitignore"
