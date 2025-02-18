@@ -11,7 +11,7 @@ path = "src/main.rs"
 
 # Ignorar binários gerados
 /target/
-**/*.rs.bk
+**/*.bk
 
 # Ignorar arquivos de configuração do IDE/editor
 **/.idea/
