@@ -9,9 +9,7 @@ edition = "2021"
 name = "reverse_string"
 path = "src/main.rs"
 
-# Ignorar binários gerados
-/target/
-**/*.bk
+
 
 # Ignorar arquivos de configuração do IDE/editor
 **/.idea/
