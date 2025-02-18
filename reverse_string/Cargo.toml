@@ -11,3 +11,19 @@ path = "src/main.rs"
 
 
 
+# Ignorar binários gerados
+/target/
+**/*.rs.bk
+
+# Ignorar arquivos de configuração do IDE/editor
+**/.idea/
+**/.vscode/
+*.swp
+*.swo
+
+# Ignorar arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de logs
+*.log
