@@ -1,0 +1,6 @@
+[package]
+name = "aula_3_desafio"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
